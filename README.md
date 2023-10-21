@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=HlBpwSu_Hsg link for video presentation
 
 Codebook for Breweries case study.docx contains explanations of the code used in the study
 
+merge.csv a csv file used containing beer type (Ales vs IPAs)
+
 # Conclusion
 States varied greatly with the number of breweries they contained.  Multiple states only had 1 brewery while Colorado had the most at 47.
 When searching through the missing data IBU had significantly more missing data than ABV.  This could be do to ABV being a more well known measurement of beer than IBU, thus deemed more important.
