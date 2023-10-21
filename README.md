@@ -7,7 +7,7 @@ The data contained all relevant information needed to answer the proposed questi
 
 We were able to to clean, prep, merge, transform and visualize the data to appropriately answer all questions from Budweiser.
 
-#Files
+# Files
 Data contains the .csv files used in the data analysis
 Brew.Rmd is an Rmarkdown file containing the code as well as anwers to the questions
 Brew.Html is a knit HTML file containg the code
